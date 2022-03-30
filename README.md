@@ -1,2 +1,5 @@
-# awari_school
-Bootcamp em Data Science e Analytics
+<img src="https://i.imgur.com/YX6UATs.png"  width="160">
+
+# Colorização de Fotos Antigas - DeOldify
+
+Este notebook é parte das tarefas da Formação Intensiva de Data Science da [Awari](https://awari.com.br/). 
